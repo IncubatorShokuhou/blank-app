@@ -1,1 +1,9 @@
 streamlit
+plotly
+pandas
+deprecation
+nbformat
+streamlit-aggrid
+streamlit-extras 
+streamlit-antd-components
+streamlit-cookies-controller
